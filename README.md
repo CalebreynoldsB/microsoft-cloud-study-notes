@@ -47,4 +47,6 @@ Coming into the Microsoft Cloud ecosystem, the sheer number of security controls
 - [ ] Configure VNet Peering and route traffic using Network Security Groups
 - [ ] Practice scenario-based practice questions for the AZ-104 exam
 
+* [AZ-900 Core Architecture & Shared Responsibility Notes](./notes/AZ-900-Core-Architecture.md)
+
 *Thanks for stopping by! Feel free to star ⭐️ this repo if you're also on your Microsoft Cloud learning journey.*
