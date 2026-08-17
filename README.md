@@ -40,13 +40,17 @@ Coming into the Microsoft Cloud ecosystem, the sheer number of security controls
 
 ---
 
-## ⏱️ My Ongoing Learning Roadmap
+* `README.md` - High-level study guide, Azure architectural patterns, and personal learning notes.
+* [`AZ-104-Resources.md`](./AZ-104-Resources.md) - (In Progress) Detailed study notes, domain breakdowns, and lab notes for the Azure Administrator track.
+* [`notes/AZ-900-Core-Architecture.md`](./notes/AZ-900-Core-Architecture.md) - Core Azure concepts, shared responsibility model, and global infrastructure notes.
+
+---
+
+### ⏱️ My Ongoing Learning Roadmap
 
 - [x] Set up Azure Free Account and configure budget limits / billing alerts
 - [x] Deploy a multi-tier web app using Azure App Service and Azure SQL
 - [ ] Configure VNet Peering and route traffic using Network Security Groups
 - [ ] Practice scenario-based practice questions for the AZ-104 exam
-
-* [AZ-900 Core Architecture & Shared Responsibility Notes](./notes/AZ-900-Core-Architecture.md)
 
 *Thanks for stopping by! Feel free to star ⭐️ this repo if you're also on your Microsoft Cloud learning journey.*
