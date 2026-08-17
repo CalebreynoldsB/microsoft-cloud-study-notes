@@ -33,10 +33,19 @@ Coming into the Microsoft Cloud ecosystem, the sheer number of security controls
 
 ---
 
-## 📁 Repository Structure
-* `README.md` - High-level study guide, Azure architectural patterns, and personal learning notes.
-* [`AZ-104-Resources.md`](./AZ-104-Resources.md) - (In Progress) Detailed study notes, domain breakdowns, and lab notes for the Azure Administrator track.
-* [`notes/AZ-900-Core-Architecture.md`](./notes/AZ-900-Core-Architecture.md) - Core Azure concepts, shared responsibility model, and global infrastructure notes.
+## 📂 Repository Structure
+
+### 📘 Exam Resources & Guides
+* [`AZ-900-Resources.md`](./AZ-900-Resources.md) - Fundamentals exam prep, official docs, and reference links.
+* [`AZ-104-Resources.md`](./AZ-104-Resources.md) - Administrator track guide, practice questions, and study logs.
+* [`AZ-500-Resources.md`](./AZ-500-Resources.md) - Security Engineer study guide, labs, and domain breakdown.
+
+### 📝 Architecture & Concept Notes
+* [`notes/AZ-900-Core-Architecture.md`](./notes/AZ-900-Core-Architecture.md) - Core Azure concepts and shared responsibility model.
+* [`notes/AZ-500-Security-Architecture.md`](./notes/AZ-500-Security-Architecture.md) - Zero Trust principles, Key Vault, and SecOps notes.
+
+### 🛠️ Practice Scripts
+* [`scripts/`](./scripts/) - Azure CLI & PowerShell automation snippets for hands-on labs.
 
 ---
 
