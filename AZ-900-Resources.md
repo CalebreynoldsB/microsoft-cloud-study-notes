@@ -29,7 +29,7 @@ To pass the AZ-900 exam, candidates should possess a solid conceptual understand
 
 For a comprehensive breakdown of the question formats, non-reversible question series, and exam day pacing, check out this detailed guide:
 
-* [How I Passed the Microsoft Azure Fundamentals (AZ-900) Exam: My Study Guide & Tips](https://calebreynoldsb.hashnode.dev/how-i-passed-the-microsoft-azure-fundamentals-az-900-exam-my-study-guide-tips)
+* [How I Passed the Microsoft Azure Fundamentals (AZ-900) Exam: My Study Guide & Tips](https://telegra.ph/Pass-Microsoft-Azure-AZ-900-Exam-Easily-08-17)
 
 ---
 
