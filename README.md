@@ -34,12 +34,6 @@ Coming into the Microsoft Cloud ecosystem, the sheer number of security controls
 ---
 
 ## 📁 Repository Structure
-
-* `README.md` - High-level study guide, Azure architectural patterns, and personal learning notes.
-* `AZ-104-Resources.md` - (In Progress) Detailed study notes, domain breakdowns, and lab notes for the Azure Administrator track.
-
----
-
 * `README.md` - High-level study guide, Azure architectural patterns, and personal learning notes.
 * [`AZ-104-Resources.md`](./AZ-104-Resources.md) - (In Progress) Detailed study notes, domain breakdowns, and lab notes for the Azure Administrator track.
 * [`notes/AZ-900-Core-Architecture.md`](./notes/AZ-900-Core-Architecture.md) - Core Azure concepts, shared responsibility model, and global infrastructure notes.
